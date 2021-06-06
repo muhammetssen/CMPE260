@@ -1,0 +1,2 @@
+swipl
+['main.pro'].
